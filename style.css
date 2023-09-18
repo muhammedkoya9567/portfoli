@@ -1,0 +1,10 @@
+.navbar{
+    background-color:wheat;
+}
+.navbar .navbar-brand{
+    color: blue;
+
+}
+.navbar :hover{
+color:red;
+}
